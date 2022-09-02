@@ -1,2 +1,2 @@
 #!/bin/bash
--ampv ../a
+ls-ampv ../a
